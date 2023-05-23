@@ -1,0 +1,2 @@
+# intel.avtal.
+intel.avtal
